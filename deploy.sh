@@ -13,6 +13,7 @@ yarn build
 #git init
 git add dist
 git commit -m 'deploy'
+git push origin master
 
 # 部署到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
