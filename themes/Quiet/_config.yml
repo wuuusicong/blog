@@ -26,7 +26,7 @@ menus:
 #  categories: /categories
 #  tags: /tags
 #  links: /links
-  about: /image/cv_.pdf
+  about: /image/cv.pdf
 
 # logo
 logo: /image/sun.png
