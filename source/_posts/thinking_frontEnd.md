@@ -1,7 +1,6 @@
 ---
 title: 对前端的一点思考
 cover: /image/thinking.jpg
-
 ---
 
 # 前言

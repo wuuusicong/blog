@@ -1,6 +1,7 @@
 ---
-title: 布局驱动式的多维时空数据的探索
-cover: /image/layout_time.jpg
+title: Albums
+cover: /image/smile.jpg
 ---
+思聪的生活馆 ;-) 记录生活的一点一滴！
 
-![image-20220928110221643](../images/layout_time.png)
+未完待定
