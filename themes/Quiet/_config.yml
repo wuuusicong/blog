@@ -76,7 +76,7 @@ picture:
 #默认的cover (默认缩略图) 在没有填写（这里可以替换（可以是api也可以是固定的图））
 default_cover: https://api.ixiaowai.cn/gqapi/gqapi.php
 
-githubLinks: ["","","","","/2022/03/01/covid_19/","", "", "", ""]
+githubLinks: ["","","","","","", "", "", ""]
 icons: ["/image/app.png","/image/app.png","/image/idea.png","/image/idea.png","/image/idea.png","/image/photo.png", "/image/idea.png", "/image/idea.png", "/image/idea.png"]
 #https://github:com/wuuusicong/Vis_Military_civilian:
 postSort: [1,2,3,4,5,6,7,8,9]
