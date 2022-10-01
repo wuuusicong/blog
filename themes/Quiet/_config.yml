@@ -26,7 +26,7 @@ menus:
 #  categories: /categories
 #  tags: /tags
 #  links: /links
-  about: /image/cv.pdf
+  about: /image/cv_.pdf
 
 # logo
 logo: /image/sun.png
@@ -53,7 +53,7 @@ bottomIcon:
     #描述名称
     name: 'Github',
     #图标
-    iconLink: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imggithub.png',
+    iconLink: '/image/git.png',
     #跳转链接
     toUrl: 'https://github.com/wuuusicong'
   }
