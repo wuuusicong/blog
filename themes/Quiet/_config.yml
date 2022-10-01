@@ -18,7 +18,7 @@ menus_title:
 #  categories: CATEGORIES
 #  tags: TAGS
 #  links: LINKS
-  about: CV
+  about: resume
 # 导航 （不建议修改）
 menus:
   home: /
@@ -53,7 +53,7 @@ bottomIcon:
     #描述名称
     name: 'Github',
     #图标
-    iconLink: '/image/git.png',
+    iconLink: '/image/git.jpg',
     #跳转链接
     toUrl: 'https://github.com/wuuusicong'
   }
